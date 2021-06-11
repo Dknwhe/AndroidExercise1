@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Exercise1</string>
+    <string name="next">next</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hello_world">Hello World</string>
+    <string name="back_to_main">Back to main</string>
+</resources>
